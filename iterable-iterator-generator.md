@@ -54,8 +54,8 @@ print(next(ib))
 
 ## Iterator
 
-An iterator is an object which has an `next` method defined. Generally
-`iter(obj)` returns the iterator for the `obj`.
+An iterator is an object which has an `__next__` method defined (Python 3,
+`next` in Python 2.7). Generally `iter(obj)` returns the iterator for the `obj`.
 
 ```Python
 >>> next(str())
