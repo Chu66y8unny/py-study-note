@@ -1,0 +1,2 @@
+- <https://pymbook.readthedocs.io/en/latest/index.html>
+- <https://anandology.com/python-practice-book/index.html>
